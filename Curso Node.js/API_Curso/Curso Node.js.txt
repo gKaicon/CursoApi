@@ -1,0 +1,16 @@
+Prompt de comando(.[comanado])
+
+.npm init -y - chamar o pacote, iniciar, e executar
+.node (diretório do arquivo) = executar js, no terminal
+
+Instalar o framework express
+.npm install express
+
+Instalar a biblioteca nodemon que atualiza o servidor
+.npm install nodemon
+.npm start = exeutar a biblioteca
+
+Instalar o sequilize, que é um framework para mexer com BDA
+.npm install sequelize mysql2
+
+Usar o insomnia, para testar as rotas
